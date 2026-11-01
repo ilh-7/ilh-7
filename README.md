@@ -8,7 +8,7 @@
  
 ## ❤️ About
  
-I'm a third-year student at Oslo Metropolitan University (OsloMet), graduating in June 2027. This is where I share the projects I build while learning, with a focus on **backend development** and **security**.
+I'm a third-year student at Oslo Metropolitan University (OsloMet), graduating in June 2027. This is where I share the projects I build while learning.
  
 ---
  
